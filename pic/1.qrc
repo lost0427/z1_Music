@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="1">
+    <file>windows-maximize.svg</file>
+    <file>back.svg</file>
+    <file>forward.svg</file>
+    <file>user.svg</file>
+    <file>windows-close.svg</file>
+    <file>Bsearch.svg</file>
+    <file>windows-minimize.svg</file>
+    <file>Wsearch.svg</file>
+  </qresource>
+</RCC>
